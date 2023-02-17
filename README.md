@@ -1,2 +1,3 @@
 # counter
- It is simple javaScript beginner project. a simple counter for perform counting
+ It is simple javaScript beginner project.
+ A simple counter for perform counting
